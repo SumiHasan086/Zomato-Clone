@@ -1,0 +1,17 @@
+.filter_item{
+    font-size:14px;
+    padding:8px;
+    display: flex;
+    background-color:var(--primary-bg);
+    color:var(--filter-text);
+    border-radius:8px;
+    -webkit-border-radius:8px;
+    -moz-border-radius:8px;
+    -ms-border-radius:8px;
+    -o-border-radius:8px;
+    border:1px solid var(--gray);
+    margin:10px 10px 10px 0; 
+}
+.filter_title{
+    margin-left: 5px;
+}
